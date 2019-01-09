@@ -1,0 +1,927 @@
+2019-01-02 10:56:27 INFO  Sorting:47 - ---UnSorted List----4
+2019-01-02 10:56:27 INFO  Sorting:48 - [Junior Technical Author, Chief Executive Officer (CEO), Accountant, Software Engineer, Software Engineer, Integration Specialist, Javascript Developer, Senior Javascript Developer, Regional Director, Pre-Sales Support, Personnel Lead, Sales Assistant, Chief Operating Officer (COO), Developer, Systems Administrator, Accountant, Sales Assistant, Senior Marketing Designer, Development Lead, Regional Director, Office Manager, Integration Specialist, Marketing Designer, Chief Financial Officer (CFO), Support Lead, Integration Specialist, Developer, Software Engineer, Regional Marketing, Regional Director, System Architect, Chief Marketing Officer (CMO)]
+2019-01-02 10:56:27 INFO  Sorting:52 - ---Sorted List----
+2019-01-02 10:56:27 INFO  Sorting:53 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-02 10:56:28 INFO  Sorting:72 - ---After Sorted List----
+2019-01-02 10:56:28 INFO  Sorting:73 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-02 10:56:28 INFO  Sorting:80 - ---Reverse Sorted List----
+2019-01-02 10:56:28 INFO  Sorting:81 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-02 10:56:29 INFO  Sorting:100 - ---After Reverse Sorted List----
+2019-01-02 10:56:29 INFO  Sorting:101 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-02 12:04:52 INFO  Search:53 - ---search Results in list ----1
+2019-01-02 12:04:52 INFO  Search:54 - [A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y, C. Vance Pre-Sales Support New York 21 Mon 12th Dec 11 $106,450/y, D. Wilder Sales Assistant Sidney 23 Mon 20th Sep 10 $85,600/y, G. Winters Accountant Tokyo 63 Mon 25th Jul 11 $170,750/y, H. Chandler Sales Assistant San Francisco 59 Mon 6th Aug 12 $137,500/y, T. Nixon System Architect Edinburgh 61 Mon 25th Apr 11 $320,800/y]
+2019-01-02 13:03:30 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:03:30 INFO  Search:53 - A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y
+2019-01-02 13:03:30 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:03:30 INFO  Search:53 - C. Vance Pre-Sales Support New York 21 Mon 12th Dec 11 $106,450/y
+2019-01-02 13:03:30 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:03:30 INFO  Search:53 - D. Wilder Sales Assistant Sidney 23 Mon 20th Sep 10 $85,600/y
+2019-01-02 13:03:30 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:03:30 INFO  Search:53 - G. Winters Accountant Tokyo 63 Mon 25th Jul 11 $170,750/y
+2019-01-02 13:03:30 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:03:30 INFO  Search:53 - H. Chandler Sales Assistant San Francisco 59 Mon 6th Aug 12 $137,500/y
+2019-01-02 13:03:30 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:03:30 INFO  Search:53 - T. Nixon System Architect Edinburgh 61 Mon 25th Apr 11 $320,800/y
+2019-01-02 13:06:26 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:26 INFO  Search:53 - A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y
+2019-01-02 13:06:50 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:50 INFO  Search:53 - A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y
+2019-01-02 13:06:50 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:50 INFO  Search:53 - C. Vance Pre-Sales Support New York 21 Mon 12th Dec 11 $106,450/y
+2019-01-02 13:06:51 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:51 INFO  Search:53 - D. Wilder Sales Assistant Sidney 23 Mon 20th Sep 10 $85,600/y
+2019-01-02 13:06:51 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:51 INFO  Search:53 - G. Winters Accountant Tokyo 63 Mon 25th Jul 11 $170,750/y
+2019-01-02 13:06:51 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:51 INFO  Search:53 - H. Chandler Sales Assistant San Francisco 59 Mon 6th Aug 12 $137,500/y
+2019-01-02 13:06:51 INFO  Search:52 - ---search Results in list ----1
+2019-01-02 13:06:51 INFO  Search:53 - T. Nixon System Architect Edinburgh 61 Mon 25th Apr 11 $320,800/y
+2019-01-02 13:27:41 INFO  Search:47 - ---search Results in list ----1
+2019-01-02 13:27:41 INFO  Search:48 - A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y
+2019-01-02 13:27:41 INFO  Search:47 - ---search Results in list ----1
+2019-01-02 13:27:41 INFO  Search:48 - C. Vance Pre-Sales Support New York 21 Mon 12th Dec 11 $106,450/y
+2019-01-02 13:27:41 INFO  Search:47 - ---search Results in list ----1
+2019-01-02 13:27:41 INFO  Search:48 - D. Wilder Sales Assistant Sidney 23 Mon 20th Sep 10 $85,600/y
+2019-01-02 13:27:41 INFO  Search:47 - ---search Results in list ----1
+2019-01-02 13:27:41 INFO  Search:48 - G. Winters Accountant Tokyo 63 Mon 25th Jul 11 $170,750/y
+2019-01-02 13:27:41 INFO  Search:47 - ---search Results in list ----1
+2019-01-02 13:27:41 INFO  Search:48 - H. Chandler Sales Assistant San Francisco 59 Mon 6th Aug 12 $137,500/y
+2019-01-02 13:27:41 INFO  Search:47 - ---search Results in list ----1
+2019-01-02 13:27:41 INFO  Search:48 - T. Nixon System Architect Edinburgh 61 Mon 25th Apr 11 $320,800/y
+2019-01-02 13:32:09 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:09 INFO  Search:44 - A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y
+2019-01-02 13:32:09 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:09 INFO  Search:44 - C. Vance Pre-Sales Support New York 21 Mon 12th Dec 11 $106,450/y
+2019-01-02 13:32:09 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:09 INFO  Search:44 - D. Wilder Sales Assistant Sidney 23 Mon 20th Sep 10 $85,600/y
+2019-01-02 13:32:09 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:09 INFO  Search:44 - G. Winters Accountant Tokyo 63 Mon 25th Jul 11 $170,750/y
+2019-01-02 13:32:09 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:09 INFO  Search:44 - H. Chandler Sales Assistant San Francisco 59 Mon 6th Aug 12 $137,500/y
+2019-01-02 13:32:09 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:09 INFO  Search:44 - T. Nixon System Architect Edinburgh 61 Mon 25th Apr 11 $320,800/y
+2019-01-02 13:32:21 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:21 INFO  Search:44 - A. Cox Junior Technical Author San Francisco 66 Mon 12th Jan 09 $86,000/y
+2019-01-02 13:32:21 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:21 INFO  Search:44 - C. Vance Pre-Sales Support New York 21 Mon 12th Dec 11 $106,450/y
+2019-01-02 13:32:21 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:21 INFO  Search:44 - D. Wilder Sales Assistant Sidney 23 Mon 20th Sep 10 $85,600/y
+2019-01-02 13:32:21 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:21 INFO  Search:44 - G. Winters Accountant Tokyo 63 Mon 25th Jul 11 $170,750/y
+2019-01-02 13:32:21 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:21 INFO  Search:44 - H. Chandler Sales Assistant San Francisco 59 Mon 6th Aug 12 $137,500/y
+2019-01-02 13:32:21 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:32:21 INFO  Search:44 - T. Nixon System Architect Edinburgh 61 Mon 25th Apr 11 $320,800/y
+2019-01-02 13:33:25 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:33:25 INFO  Search:44 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-02 13:33:25 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:33:25 INFO  Search:44 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-02 13:33:25 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:33:25 INFO  Search:44 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-02 13:33:25 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:33:25 INFO  Search:44 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-02 13:33:59 INFO  Search:43 - ---search Results in list ----0
+2019-01-02 13:33:59 INFO  Search:44 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-02 13:33:59 INFO  Search:43 - ---search Results in list ----1
+2019-01-02 13:33:59 INFO  Search:44 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-02 13:33:59 INFO  Search:43 - ---search Results in list ----2
+2019-01-02 13:33:59 INFO  Search:44 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-02 13:33:59 INFO  Search:43 - ---search Results in list ----3
+2019-01-02 13:33:59 INFO  Search:44 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-02 13:34:38 INFO  Search:43 - ---search Results in row1-----
+2019-01-02 13:34:38 INFO  Search:44 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-02 13:34:38 INFO  Search:43 - ---search Results in row2-----
+2019-01-02 13:34:38 INFO  Search:44 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-02 13:34:39 INFO  Search:43 - ---search Results in row3-----
+2019-01-02 13:34:39 INFO  Search:44 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-02 13:34:39 INFO  Search:43 - ---search Results in row4-----
+2019-01-02 13:34:39 INFO  Search:44 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-02 13:35:03 INFO  Search:43 - ---Search Results in Row 1---
+2019-01-02 13:35:03 INFO  Search:44 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-02 13:35:03 INFO  Search:43 - ---Search Results in Row 2---
+2019-01-02 13:35:03 INFO  Search:44 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-02 13:35:03 INFO  Search:43 - ---Search Results in Row 3---
+2019-01-02 13:35:03 INFO  Search:44 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-02 13:35:03 INFO  Search:43 - ---Search Results in Row 4---
+2019-01-02 13:35:03 INFO  Search:44 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-02 14:49:17 INFO  Search:40 - --- Search Results in Row 1---
+2019-01-02 14:49:17 INFO  Search:41 - Cras justo odio
+2019-01-02 14:49:17 INFO  Search:40 - --- Search Results in Row 2---
+2019-01-02 14:49:17 INFO  Search:41 - Dapibus ac facilisis in
+2019-01-02 14:49:17 INFO  Search:40 - --- Search Results in Row 3---
+2019-01-02 14:49:17 INFO  Search:41 - Morbi leo risus
+2019-01-02 14:49:18 INFO  Search:40 - --- Search Results in Row 4---
+2019-01-02 14:49:18 INFO  Search:41 - Porta ac consectetur ac
+2019-01-02 14:49:18 INFO  Search:40 - --- Search Results in Row 5---
+2019-01-02 14:49:18 INFO  Search:41 - Vestibulum at eros
+2019-01-02 14:50:08 INFO  Search:41 - --- Search Results in Row 1---
+2019-01-02 14:50:08 INFO  Search:42 - Cras justo odio
+2019-01-02 14:50:08 INFO  Search:41 - --- Search Results in Row 2---
+2019-01-02 14:50:08 INFO  Search:42 - Dapibus ac facilisis in
+2019-01-02 14:50:08 INFO  Search:41 - --- Search Results in Row 3---
+2019-01-02 14:50:08 INFO  Search:42 - Morbi leo risus
+2019-01-02 14:50:08 INFO  Search:41 - --- Search Results in Row 4---
+2019-01-02 14:50:08 INFO  Search:42 - Porta ac consectetur ac
+2019-01-02 14:50:08 INFO  Search:41 - --- Search Results in Row 5---
+2019-01-02 14:50:08 INFO  Search:42 - Vestibulum at eros
+2019-01-02 14:53:06 INFO  Search:41 - --- Search Results in Row 1---
+2019-01-02 14:53:06 INFO  Search:42 - Cras justo odio
+2019-01-02 14:53:06 INFO  Search:41 - --- Search Results in Row 2---
+2019-01-02 14:53:06 INFO  Search:42 - Dapibus ac facilisis in
+2019-01-02 14:53:06 INFO  Search:41 - --- Search Results in Row 3---
+2019-01-02 14:53:06 INFO  Search:42 - Morbi leo risus
+2019-01-02 14:53:06 INFO  Search:41 - --- Search Results in Row 4---
+2019-01-02 14:53:06 INFO  Search:42 - Porta ac consectetur ac
+2019-01-02 14:53:06 INFO  Search:41 - --- Search Results in Row 5---
+2019-01-02 14:53:06 INFO  Search:42 - Vestibulum at eros
+2019-01-02 14:53:06 INFO  Search:41 - --- Search Results in Row 6---
+2019-01-02 14:53:06 INFO  Search:42 - bootstrap-duallist
+2019-01-02 14:55:22 INFO  Search:43 - [Cras justo odio]
+2019-01-02 14:55:22 INFO  Search:43 - [Cras justo odio, Dapibus ac facilisis in]
+2019-01-02 14:55:22 INFO  Search:43 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus]
+2019-01-02 14:55:22 INFO  Search:43 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac]
+2019-01-02 14:55:22 INFO  Search:43 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros]
+2019-01-02 14:55:22 INFO  Search:43 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 14:55:22 INFO  Search:47 - --- Search Results in Row 
+2019-01-02 14:55:22 INFO  Search:48 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 14:57:32 INFO  Search:45 - --- Search Results in Row 
+2019-01-02 14:57:32 INFO  Search:46 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 14:58:34 INFO  Search:45 - --- Search Results in Row 
+2019-01-02 14:58:34 INFO  Search:46 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 14:58:34 INFO  Search:47 - 
+2019-01-02 15:00:06 INFO  Search:45 - --- Search Results in Row 
+2019-01-02 15:00:06 INFO  Search:46 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 15:00:06 INFO  Search:47 - 
+2019-01-02 15:00:49 INFO  Search:45 - --- Search Results in Row 
+2019-01-02 15:00:49 INFO  Search:46 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 15:00:49 INFO  Search:47 - 
+2019-01-02 15:01:23 INFO  Search:45 - --- Search Results in Row 
+2019-01-02 15:01:23 INFO  Search:46 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 15:01:23 INFO  Search:47 - 
+2019-01-02 15:05:38 INFO  Search:45 - --- Search Results in Row 
+2019-01-02 15:05:38 INFO  Search:46 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 15:06:33 INFO  Search:30 - bootstrap-duallist
+2019-01-02 15:06:35 INFO  Search:46 - --- Search Results in Row 
+2019-01-02 15:06:35 INFO  Search:47 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 15:07:19 INFO  Search:30 - bootstrap-duallist
+2019-01-02 15:07:22 INFO  Search:46 - --- Search Results in Row 
+2019-01-02 15:07:22 INFO  Search:47 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 15:07:47 INFO  Search:30 - bootstrap-duallist
+2019-01-02 15:07:47 INFO  Search:43 - --- Search Results in Row 
+2019-01-02 15:07:47 INFO  Search:44 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-02 16:20:21 INFO  Login:31 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 09:52:25 INFO  Login:38 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 09:52:59 INFO  Login:37 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 09:54:13 INFO  Login:38 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 09:54:58 INFO  Login:38 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 10:32:50 INFO  Login:41 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 10:33:08 INFO  Login:41 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 11:06:03 INFO  Login:45 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 11:17:05 INFO  Sorting:47 - ---UnSorted List----4
+2019-01-04 11:17:05 INFO  Sorting:48 - [Junior Technical Author, Chief Executive Officer (CEO), Accountant, Software Engineer, Software Engineer, Integration Specialist, Javascript Developer, Senior Javascript Developer, Regional Director, Pre-Sales Support, Personnel Lead, Sales Assistant, Chief Operating Officer (COO), Developer, Systems Administrator, Accountant, Sales Assistant, Senior Marketing Designer, Development Lead, Regional Director, Office Manager, Integration Specialist, Marketing Designer, Chief Financial Officer (CFO), Support Lead, Integration Specialist, Developer, Software Engineer, Regional Marketing, Regional Director, System Architect, Chief Marketing Officer (CMO)]
+2019-01-04 11:17:05 INFO  Sorting:52 - ---Sorted List----
+2019-01-04 11:17:05 INFO  Sorting:53 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-04 11:17:06 INFO  Sorting:72 - ---After Sorted List----
+2019-01-04 11:17:06 INFO  Sorting:73 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-04 11:17:07 INFO  Sorting:80 - ---Reverse Sorted List----
+2019-01-04 11:17:07 INFO  Sorting:81 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-04 11:17:08 INFO  Sorting:100 - ---After Reverse Sorted List----
+2019-01-04 11:17:08 INFO  Sorting:101 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-04 11:17:12 INFO  Search:43 - --- Search Results in Row 1---
+2019-01-04 11:17:12 INFO  Search:44 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-04 11:17:12 INFO  Search:43 - --- Search Results in Row 2---
+2019-01-04 11:17:12 INFO  Search:44 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-04 11:17:12 INFO  Search:43 - --- Search Results in Row 3---
+2019-01-04 11:17:12 INFO  Search:44 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-04 11:17:12 INFO  Search:43 - --- Search Results in Row 4---
+2019-01-04 11:17:12 INFO  Search:44 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-04 11:17:21 INFO  Login:44 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 11:17:25 INFO  Movelist:30 - bootstrap-duallist
+2019-01-04 11:17:26 INFO  Movelist:42 - --- Search Results in Row 
+2019-01-04 11:17:26 INFO  Movelist:43 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-04 14:10:56 INFO  Login:49 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 14:11:20 INFO  Login:49 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 14:13:32 INFO  Login:49 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 14:21:32 INFO  Login:49 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 14:33:55 INFO  Login:49 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 15:38:52 INFO  Sorting:46 - ---UnSorted List----4
+2019-01-04 15:38:52 INFO  Sorting:47 - [Junior Technical Author, Chief Executive Officer (CEO), Accountant, Software Engineer, Software Engineer, Integration Specialist, Javascript Developer, Senior Javascript Developer, Regional Director, Pre-Sales Support, Personnel Lead, Sales Assistant, Chief Operating Officer (COO), Developer, Systems Administrator, Accountant, Sales Assistant, Senior Marketing Designer, Development Lead, Regional Director, Office Manager, Integration Specialist, Marketing Designer, Chief Financial Officer (CFO), Support Lead, Integration Specialist, Developer, Software Engineer, Regional Marketing, Regional Director, System Architect, Chief Marketing Officer (CMO)]
+2019-01-04 15:38:52 INFO  Sorting:51 - ---Sorted List----
+2019-01-04 15:38:52 INFO  Sorting:52 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-04 15:38:54 INFO  Sorting:71 - ---After Sorted List----
+2019-01-04 15:38:54 INFO  Sorting:72 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-04 15:38:54 INFO  Sorting:79 - ---Reverse Sorted List----
+2019-01-04 15:38:54 INFO  Sorting:80 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-04 15:38:55 INFO  Sorting:99 - ---After Reverse Sorted List----
+2019-01-04 15:38:55 INFO  Sorting:100 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-04 15:39:05 INFO  Login:49 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 15:39:10 INFO  Search:41 - --- Search Results in Row 1---
+2019-01-04 15:39:10 INFO  Search:42 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-04 15:39:10 INFO  Search:41 - --- Search Results in Row 2---
+2019-01-04 15:39:10 INFO  Search:42 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-04 15:39:10 INFO  Search:41 - --- Search Results in Row 3---
+2019-01-04 15:39:10 INFO  Search:42 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-04 15:39:10 INFO  Search:41 - --- Search Results in Row 4---
+2019-01-04 15:39:10 INFO  Search:42 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-04 15:39:15 INFO  Movelist:29 - bootstrap-duallist
+2019-01-04 15:39:15 INFO  Movelist:41 - --- Search Results in Row 
+2019-01-04 15:39:15 INFO  Movelist:42 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-04 16:07:05 INFO  Login:30 - Driver is initialized
+2019-01-04 16:07:11 INFO  Login:57 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 16:24:14 INFO  Login:26 - Driver is initialized
+2019-01-04 16:24:20 INFO  Login:43 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 16:39:35 INFO  Login:26 - Driver is initialized
+2019-01-04 16:39:39 INFO  Movelist:21 - Driver is initialized
+2019-01-04 16:57:50 INFO  Login:26 - Driver is initialized
+2019-01-04 16:57:54 INFO  Login:43 - Welcome To Manager's Page of Guru99 Bank
+2019-01-04 16:58:27 INFO  Login:26 - Driver is initialized
+2019-01-07 13:27:35 INFO  Search:24 - Driver is initialized
+2019-01-07 13:28:19 INFO  Search:24 - Driver is initialized
+2019-01-07 13:28:23 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 13:28:23 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 13:28:23 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 13:28:23 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 13:28:23 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 13:28:23 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 13:28:23 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 13:28:23 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-07 13:29:23 INFO  Search:24 - Driver is initialized
+2019-01-07 13:29:26 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 13:29:26 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 13:29:26 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 13:29:26 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 13:29:26 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 13:29:26 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 13:29:26 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 13:29:26 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-07 13:29:39 INFO  Search:24 - Driver is initialized
+2019-01-07 13:29:42 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 13:29:42 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 13:29:43 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 13:29:43 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 13:29:43 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 13:29:43 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 13:29:43 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 13:29:43 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-07 13:29:46 INFO  Search:24 - Driver is initialized
+2019-01-07 13:29:48 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 13:29:48 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 13:29:48 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 13:29:48 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 13:29:48 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 13:29:48 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 13:29:48 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 13:29:48 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-07 13:30:33 INFO  Login:27 - Driver is initialized
+2019-01-07 13:30:39 INFO  Login:44 - Welcome To Manager's Page of Guru99 Bank
+2019-01-07 16:50:26 INFO  Sorting:25 - Driver is initialized
+2019-01-07 16:50:30 INFO  Sorting:51 - ---UnSorted List----4
+2019-01-07 16:50:30 INFO  Sorting:52 - [Junior Technical Author, Chief Executive Officer (CEO), Accountant, Software Engineer, Software Engineer, Integration Specialist, Javascript Developer, Senior Javascript Developer, Regional Director, Pre-Sales Support, Personnel Lead, Sales Assistant, Chief Operating Officer (COO), Developer, Systems Administrator, Accountant, Sales Assistant, Senior Marketing Designer, Development Lead, Regional Director, Office Manager, Integration Specialist, Marketing Designer, Chief Financial Officer (CFO), Support Lead, Integration Specialist, Developer, Software Engineer, Regional Marketing, Regional Director, System Architect, Chief Marketing Officer (CMO)]
+2019-01-07 16:50:30 INFO  Sorting:56 - ---Sorted List----
+2019-01-07 16:50:30 INFO  Sorting:57 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-07 16:50:31 INFO  Sorting:76 - ---After Sorted List----
+2019-01-07 16:50:31 INFO  Sorting:77 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-07 16:50:31 INFO  Sorting:84 - ---Reverse Sorted List----
+2019-01-07 16:50:31 INFO  Sorting:85 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-07 16:50:33 INFO  Sorting:104 - ---After Reverse Sorted List----
+2019-01-07 16:50:33 INFO  Sorting:105 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-07 16:50:56 INFO  Search:24 - Driver is initialized
+2019-01-07 16:50:59 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 16:50:59 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 16:50:59 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 16:50:59 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 16:50:59 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 16:50:59 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 16:50:59 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 16:50:59 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-07 16:51:12 INFO  Movelist:25 - Driver is initialized
+2019-01-07 16:51:14 INFO  Movelist:37 - bootstrap-duallist
+2019-01-07 16:51:15 INFO  Movelist:49 - --- Search Results in Row 
+2019-01-07 16:51:15 INFO  Movelist:50 - [Cras justo odio, Dapibus ac facilisis in, Morbi leo risus, Porta ac consectetur ac, Vestibulum at eros, bootstrap-duallist]
+2019-01-07 16:51:35 INFO  Login:27 - Driver is initialized
+2019-01-07 16:51:40 INFO  Login:44 - Welcome To Manager's Page of Guru99 Bank
+2019-01-07 17:00:14 INFO  Login:27 - Driver is initialized
+2019-01-07 17:00:19 INFO  Login:44 - Welcome To Manager's Page of Guru99 Bank
+2019-01-07 17:02:45 INFO  Search:24 - Driver is initialized
+2019-01-07 17:02:48 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 17:02:48 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 17:02:48 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 17:02:48 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 17:02:48 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 17:02:48 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 17:02:48 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 17:02:48 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-07 17:20:17 INFO  Login:27 - Driver is initialized
+2019-01-07 17:20:20 INFO  Movelist:25 - Driver is initialized
+2019-01-07 17:20:35 INFO  Sorting:25 - Driver is initialized
+2019-01-07 17:20:40 INFO  Sorting:51 - ---UnSorted List---4
+2019-01-07 17:20:40 INFO  Sorting:52 - [Junior Technical Author, Chief Executive Officer (CEO), Accountant, Software Engineer, Software Engineer, Integration Specialist, Javascript Developer, Senior Javascript Developer, Regional Director, Pre-Sales Support, Personnel Lead, Sales Assistant, Chief Operating Officer (COO), Developer, Systems Administrator, Accountant, Sales Assistant, Senior Marketing Designer, Development Lead, Regional Director, Office Manager, Integration Specialist, Marketing Designer, Chief Financial Officer (CFO), Support Lead, Integration Specialist, Developer, Software Engineer, Regional Marketing, Regional Director, System Architect, Chief Marketing Officer (CMO)]
+2019-01-07 17:20:40 INFO  Sorting:56 - ---Sorted List---
+2019-01-07 17:20:40 INFO  Sorting:57 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-07 17:20:41 INFO  Sorting:76 - ---After Sorted List---
+2019-01-07 17:20:41 INFO  Sorting:77 - [Accountant, Accountant, Chief Executive Officer (CEO), Chief Financial Officer (CFO), Chief Marketing Officer (CMO), Chief Operating Officer (COO), Developer, Developer, Development Lead, Integration Specialist, Integration Specialist, Integration Specialist, Javascript Developer, Junior Technical Author, Marketing Designer, Office Manager, Personnel Lead, Pre-Sales Support, Regional Director, Regional Director, Regional Director, Regional Marketing, Sales Assistant, Sales Assistant, Senior Javascript Developer, Senior Marketing Designer, Software Engineer, Software Engineer, Software Engineer, Support Lead, System Architect, Systems Administrator]
+2019-01-07 17:20:41 INFO  Sorting:84 - ---Reverse Sorted List---
+2019-01-07 17:20:41 INFO  Sorting:85 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-07 17:20:42 INFO  Sorting:104 - ---After Reverse Sorted List---
+2019-01-07 17:20:42 INFO  Sorting:105 - [Systems Administrator, System Architect, Support Lead, Software Engineer, Software Engineer, Software Engineer, Senior Marketing Designer, Senior Javascript Developer, Sales Assistant, Sales Assistant, Regional Marketing, Regional Director, Regional Director, Regional Director, Pre-Sales Support, Personnel Lead, Office Manager, Marketing Designer, Junior Technical Author, Javascript Developer, Integration Specialist, Integration Specialist, Integration Specialist, Development Lead, Developer, Developer, Chief Operating Officer (COO), Chief Marketing Officer (CMO), Chief Financial Officer (CFO), Chief Executive Officer (CEO), Accountant, Accountant]
+2019-01-07 17:20:44 INFO  Search:24 - Driver is initialized
+2019-01-07 17:20:47 INFO  Search:49 - --- Search Results in Row 1---
+2019-01-07 17:20:47 INFO  Search:50 - A. Ramos Chief Executive Officer (CEO) London 47 Fri 9th Oct 09 $1,200,000/y
+2019-01-07 17:20:47 INFO  Search:49 - --- Search Results in Row 2---
+2019-01-07 17:20:47 INFO  Search:50 - C. Kelly Senior Javascript Developer Edinburgh 22 Thu 29th Mar 12 $433,060/y
+2019-01-07 17:20:47 INFO  Search:49 - --- Search Results in Row 3---
+2019-01-07 17:20:47 INFO  Search:50 - J. Gaines Office Manager London 30 Fri 19th Dec 08 $90,560/y
+2019-01-07 17:20:47 INFO  Search:49 - --- Search Results in Row 4---
+2019-01-07 17:20:47 INFO  Search:50 - P. Byrd Chief Financial Officer (CFO) New York 64 Wed 9th Jun 10 $725,000/y
+2019-01-09 11:13:07 INFO  Login:27 - Driver is initialized
+2019-01-09 11:13:12 INFO  Login:47 - Welcome To Manager's Page of Guru99 Bank
+2019-01-09 11:13:12 INFO  Login:50 - title = EnygEve
+2019-01-09 11:13:12 INFO  Login:51 - showntitle = Guru99 Bank Manager HomePage
+2019-01-09 11:14:03 INFO  Login:27 - Driver is initialized
+2019-01-09 11:14:08 INFO  Login:47 - Welcome To Manager's Page of Guru99 Bank
+2019-01-09 11:14:08 INFO  Login:50 - title = Guru99 Bank Manager HomePage
+2019-01-09 11:14:08 INFO  Login:51 - showntitle = Guru99 Bank Manager HomePage
+2019-01-09 11:15:13 INFO  Login:27 - Driver is initialized
+2019-01-09 11:15:19 INFO  Login:48 - Success message: Welcome To Manager's Page of Guru99 Bank
+2019-01-09 11:15:19 INFO  Login:51 - title = Guru99 Bank Manager HomePage
+2019-01-09 11:15:19 INFO  Login:52 - showntitle = Guru99 Bank Manager HomePage
+2019-01-09 11:18:13 INFO  Login:28 - Driver is initialized
+2019-01-09 11:18:17 INFO  Login:49 - Success message: Welcome To Manager's Page of Guru99 Bank
+2019-01-09 11:18:17 INFO  Login:53 - title = Guru99 Bank Manager HomePage
+2019-01-09 11:18:17 INFO  Login:54 - showntitle = Guru99 Bank Manager HomePage
+2019-01-09 11:21:59 INFO  Login:29 - Driver is initialized
+2019-01-09 11:22:03 INFO  Login:51 - Success message: Welcome To Manager's Page of Guru99 Bank
+2019-01-09 11:22:03 INFO  Login:55 - title = Guru99 Bank Manager HomePage
+2019-01-09 11:22:03 INFO  Login:56 - showntitle = Guru99 Bank Manager HomePage
+2019-01-09 11:50:14 INFO  Login:31 - Driver is initialized
+2019-01-09 11:52:45 INFO  Login:31 - Driver is initialized
+2019-01-09 11:54:18 INFO  Login:31 - Driver is initialized
+2019-01-09 11:54:53 INFO  Login:31 - Driver is initialized
+2019-01-09 11:58:55 INFO  Login:31 - Driver is initialized
+2019-01-09 11:59:16 INFO  Login:31 - Driver is initialized
+2019-01-09 12:02:48 INFO  Login:31 - Driver is initialized
+2019-01-09 12:03:33 INFO  Login:31 - Driver is initialized
+2019-01-09 13:34:01 INFO  Login:31 - Driver is initialized
+2019-01-09 13:44:44 INFO  Login:31 - Driver is initialized
+2019-01-09 13:45:18 INFO  Login:31 - Driver is initialized
+2019-01-09 13:46:31 INFO  Login:31 - Driver is initialized
+2019-01-09 13:47:16 INFO  Login:31 - Driver is initialized
+2019-01-09 13:47:18 INFO  Login:45 - Going to login
+2019-01-09 13:49:08 INFO  Login:31 - Driver is initialized
+2019-01-09 14:11:37 INFO  Login:31 - Driver is initialized
+2019-01-09 14:52:15 INFO  Login:30 - Driver is initialized
+2019-01-09 14:52:16 INFO  Login:54 - Going to login
+2019-01-09 14:57:36 INFO  Login:31 - Driver is initialized
+2019-01-09 14:57:37 INFO  Login:57 - Going to login
+2019-01-09 14:57:38 INFO  Login:57 - Going to login
+2019-01-09 14:59:38 INFO  Login:31 - Driver is initialized
+2019-01-09 14:59:39 INFO  Login:57 - Going to login
+2019-01-09 14:59:40 INFO  Login:57 - Going to login
+2019-01-09 15:01:58 INFO  Login:31 - Driver is initialized
+2019-01-09 15:02:00 INFO  Login:57 - Going to login
+2019-01-09 15:02:01 INFO  Login:57 - Going to login
+2019-01-09 15:02:02 INFO  Login:57 - Going to login
+2019-01-09 15:02:37 INFO  Login:31 - Driver is initialized
+2019-01-09 15:02:39 INFO  Login:57 - Going to login
+2019-01-09 15:02:40 INFO  Login:57 - Going to login
+2019-01-09 15:02:41 INFO  Login:57 - Going to login
+2019-01-09 15:02:42 INFO  Login:57 - Going to login
+2019-01-09 15:03:31 INFO  Login:31 - Driver is initialized
+2019-01-09 15:03:32 INFO  Login:54 - 
+2019-01-09 15:03:32 INFO  Login:56 - 
+2019-01-09 15:03:32 INFO  Login:58 - Going to login
+2019-01-09 15:03:33 INFO  Login:54 - 
+2019-01-09 15:03:33 INFO  Login:56 - 
+2019-01-09 15:03:33 INFO  Login:58 - Going to login
+2019-01-09 15:03:34 INFO  Login:54 - 
+2019-01-09 15:03:34 INFO  Login:56 - 
+2019-01-09 15:03:34 INFO  Login:58 - Going to login
+2019-01-09 15:03:35 INFO  Login:54 - 
+2019-01-09 15:03:35 INFO  Login:56 - 
+2019-01-09 15:03:35 INFO  Login:58 - Going to login
+2019-01-09 15:04:47 INFO  Login:31 - Driver is initialized
+2019-01-09 15:04:49 INFO  Login:54 - 
+2019-01-09 15:04:49 INFO  Login:56 - 
+2019-01-09 15:04:49 INFO  Login:58 - Going to login
+2019-01-09 15:04:50 INFO  Login:54 - 
+2019-01-09 15:04:50 INFO  Login:56 - 
+2019-01-09 15:04:50 INFO  Login:58 - Going to login
+2019-01-09 15:04:51 INFO  Login:54 - 
+2019-01-09 15:04:51 INFO  Login:56 - 
+2019-01-09 15:04:51 INFO  Login:58 - Going to login
+2019-01-09 15:04:52 INFO  Login:54 - 
+2019-01-09 15:04:52 INFO  Login:56 - 
+2019-01-09 15:04:52 INFO  Login:58 - Going to login
+2019-01-09 15:05:52 INFO  Login:31 - Driver is initialized
+2019-01-09 15:05:54 INFO  Login:51 - 
+2019-01-09 15:05:54 INFO  Login:54 - 
+2019-01-09 15:05:54 INFO  Login:56 - 
+2019-01-09 15:05:54 INFO  Login:58 - Going to login
+2019-01-09 15:05:55 INFO  Login:54 - 
+2019-01-09 15:05:55 INFO  Login:56 - 
+2019-01-09 15:05:55 INFO  Login:58 - Going to login
+2019-01-09 15:05:56 INFO  Login:54 - 
+2019-01-09 15:05:56 INFO  Login:56 - 
+2019-01-09 15:05:56 INFO  Login:58 - Going to login
+2019-01-09 15:05:57 INFO  Login:54 - 
+2019-01-09 15:05:57 INFO  Login:56 - 
+2019-01-09 15:05:57 INFO  Login:58 - Going to login
+2019-01-09 15:16:12 INFO  Login:31 - Driver is initialized
+2019-01-09 15:16:16 INFO  Login:48 - data 
+2019-01-09 15:16:16 INFO  Login:54 - 
+2019-01-09 15:16:16 INFO  Login:56 - 
+2019-01-09 15:16:16 INFO  Login:58 - Going to login
+2019-01-09 15:16:17 INFO  Login:54 - 
+2019-01-09 15:16:17 INFO  Login:56 - 
+2019-01-09 15:16:17 INFO  Login:58 - Going to login
+2019-01-09 15:16:18 INFO  Login:54 - 
+2019-01-09 15:16:18 INFO  Login:56 - 
+2019-01-09 15:16:18 INFO  Login:58 - Going to login
+2019-01-09 15:16:19 INFO  Login:54 - 
+2019-01-09 15:16:19 INFO  Login:56 - 
+2019-01-09 15:16:19 INFO  Login:58 - Going to login
+2019-01-09 15:20:41 INFO  Login:31 - Driver is initialized
+2019-01-09 15:20:43 INFO  Login:48 - data 
+2019-01-09 15:20:43 INFO  Login:54 - 
+2019-01-09 15:20:43 INFO  Login:56 - 
+2019-01-09 15:20:43 INFO  Login:58 - Going to login
+2019-01-09 15:20:44 INFO  Login:54 - 
+2019-01-09 15:20:44 INFO  Login:56 - 
+2019-01-09 15:20:44 INFO  Login:58 - Going to login
+2019-01-09 15:20:45 INFO  Login:54 - 
+2019-01-09 15:20:45 INFO  Login:56 - 
+2019-01-09 15:20:45 INFO  Login:58 - Going to login
+2019-01-09 15:20:46 INFO  Login:54 - 
+2019-01-09 15:20:46 INFO  Login:56 - 
+2019-01-09 15:20:46 INFO  Login:58 - Going to login
+2019-01-09 15:26:01 INFO  Login:31 - Driver is initialized
+2019-01-09 15:26:03 INFO  Login:48 - data 
+2019-01-09 15:26:03 INFO  Login:54 - 
+2019-01-09 15:26:03 INFO  Login:56 - 
+2019-01-09 15:26:03 INFO  Login:58 - Going to login
+2019-01-09 15:26:04 INFO  Login:54 - 
+2019-01-09 15:26:04 INFO  Login:56 - 
+2019-01-09 15:26:04 INFO  Login:58 - Going to login
+2019-01-09 15:26:05 INFO  Login:54 - 
+2019-01-09 15:26:05 INFO  Login:56 - 
+2019-01-09 15:26:05 INFO  Login:58 - Going to login
+2019-01-09 15:35:13 INFO  Login:32 - Driver is initialized
+2019-01-09 15:36:21 INFO  Login:32 - Driver is initialized
+2019-01-09 15:37:20 INFO  Login:32 - Driver is initialized
+2019-01-09 15:38:04 INFO  Login:32 - Driver is initialized
+2019-01-09 15:41:22 INFO  Login:32 - Driver is initialized
+2019-01-09 15:41:24 INFO  Login:51 - data 
+2019-01-09 15:41:24 INFO  Login:57 - 
+2019-01-09 15:41:24 INFO  Login:59 - 
+2019-01-09 15:41:24 INFO  Login:61 - Going to login
+2019-01-09 15:41:25 INFO  Login:57 - 
+2019-01-09 15:41:25 INFO  Login:59 - 
+2019-01-09 15:41:25 INFO  Login:61 - Going to login
+2019-01-09 15:41:26 INFO  Login:57 - 
+2019-01-09 15:41:26 INFO  Login:59 - 
+2019-01-09 15:41:26 INFO  Login:61 - Going to login
+2019-01-09 15:41:27 INFO  Login:57 - 
+2019-01-09 15:41:27 INFO  Login:59 - 
+2019-01-09 15:41:27 INFO  Login:61 - Going to login
+2019-01-09 15:43:11 INFO  Login:32 - Driver is initialized
+2019-01-09 15:43:14 INFO  Login:51 - data mngr171835
+2019-01-09 15:43:14 INFO  Login:57 - mngr171835
+2019-01-09 15:43:14 INFO  Login:59 - EnygEve
+2019-01-09 15:43:14 INFO  Login:61 - Going to login
+2019-01-09 15:43:14 INFO  Login:57 - mngr171835
+2019-01-09 15:43:14 INFO  Login:59 - EnygEve
+2019-01-09 15:43:14 INFO  Login:61 - Going to login
+2019-01-09 15:43:15 INFO  Login:57 - mngr171835
+2019-01-09 15:43:15 INFO  Login:59 - EnygEve
+2019-01-09 15:43:16 INFO  Login:61 - Going to login
+2019-01-09 15:43:17 INFO  Login:57 - mngr171835
+2019-01-09 15:43:17 INFO  Login:59 - EnygEve
+2019-01-09 15:43:17 INFO  Login:61 - Going to login
+2019-01-09 15:44:10 INFO  Login:32 - Driver is initialized
+2019-01-09 15:44:13 INFO  Login:57 - testData
+2019-01-09 15:44:13 INFO  Login:59 - username
+2019-01-09 15:44:13 INFO  Login:61 - Going to login
+2019-01-09 15:44:13 INFO  Login:57 - 
+2019-01-09 15:44:13 INFO  Login:59 - mngr171835
+2019-01-09 15:44:13 INFO  Login:61 - Going to login
+2019-01-09 15:44:15 INFO  Login:57 - 
+2019-01-09 15:44:15 INFO  Login:59 - invalid
+2019-01-09 15:44:15 INFO  Login:61 - Going to login
+2019-01-09 15:44:16 INFO  Login:57 - 
+2019-01-09 15:44:16 INFO  Login:59 - valid
+2019-01-09 15:44:16 INFO  Login:61 - Going to login
+2019-01-09 15:45:37 INFO  Login:32 - Driver is initialized
+2019-01-09 15:45:39 INFO  Login:57 - username = testData
+2019-01-09 15:45:39 INFO  Login:59 - password = username
+2019-01-09 15:45:40 INFO  Login:57 - username = 
+2019-01-09 15:45:40 INFO  Login:59 - password = mngr171835
+2019-01-09 15:45:41 INFO  Login:57 - username = 
+2019-01-09 15:45:41 INFO  Login:59 - password = invalid
+2019-01-09 15:45:43 INFO  Login:57 - username = 
+2019-01-09 15:45:43 INFO  Login:59 - password = valid
+2019-01-09 15:46:21 INFO  Login:32 - Driver is initialized
+2019-01-09 15:46:24 INFO  Login:57 - username = 
+2019-01-09 15:46:24 INFO  Login:59 - password = mngr171835
+2019-01-09 15:46:24 INFO  Login:57 - username = 
+2019-01-09 15:46:24 INFO  Login:59 - password = invalid
+2019-01-09 15:46:25 INFO  Login:57 - username = 
+2019-01-09 15:46:25 INFO  Login:59 - password = valid
+2019-01-09 15:46:27 INFO  Login:57 - username = 
+2019-01-09 15:46:27 INFO  Login:59 - password = invalid
+2019-01-09 15:47:01 INFO  Login:32 - Driver is initialized
+2019-01-09 15:47:03 INFO  Login:57 - username = mngr171835
+2019-01-09 15:47:03 INFO  Login:59 - password = EnygEve
+2019-01-09 15:47:05 INFO  Login:57 - username = invalid
+2019-01-09 15:47:05 INFO  Login:59 - password = valid
+2019-01-09 15:51:40 INFO  Login:32 - Driver is initialized
+2019-01-09 15:51:43 INFO  Login:57 - username = mngr171835
+2019-01-09 15:51:43 INFO  Login:59 - password = EnygEve
+2019-01-09 15:51:44 INFO  Login:32 - Driver is initialized
+2019-01-09 15:51:47 INFO  Login:57 - username = invalid
+2019-01-09 15:51:47 INFO  Login:59 - password = valid
+2019-01-09 15:51:49 INFO  Login:32 - Driver is initialized
+2019-01-09 15:53:22 INFO  Login:32 - Driver is initialized
+2019-01-09 15:53:24 INFO  Login:57 - username = mngr171835
+2019-01-09 15:53:24 INFO  Login:59 - password = EnygEve
+2019-01-09 15:53:25 INFO  Login:32 - Driver is initialized
+2019-01-09 15:53:30 INFO  Login:57 - username = invalid
+2019-01-09 15:53:30 INFO  Login:59 - password = valid
+2019-01-09 15:53:32 INFO  Login:32 - Driver is initialized
+2019-01-09 15:55:05 INFO  Login:32 - Driver is initialized
+2019-01-09 15:55:08 INFO  Login:57 - username = mngr171835
+2019-01-09 15:55:08 INFO  Login:59 - password = EnygEve
+2019-01-09 15:55:10 INFO  Login:32 - Driver is initialized
+2019-01-09 15:55:14 INFO  Login:57 - username = invalid
+2019-01-09 15:55:14 INFO  Login:59 - password = valid
+2019-01-09 15:55:16 INFO  Login:32 - Driver is initialized
+2019-01-09 15:57:00 INFO  Login:32 - Driver is initialized
+2019-01-09 15:57:03 INFO  Login:57 - username = mngr171835
+2019-01-09 15:57:03 INFO  Login:59 - password = EnygEve
+2019-01-09 15:57:04 INFO  Login:57 - username = invalid
+2019-01-09 15:57:04 INFO  Login:59 - password = valid
+2019-01-09 15:59:29 INFO  Login:32 - Driver is initialized
+2019-01-09 15:59:32 INFO  Login:57 - username = mngr171835
+2019-01-09 15:59:32 INFO  Login:59 - password = EnygEve
+2019-01-09 15:59:33 INFO  Login:57 - username = invalid
+2019-01-09 15:59:33 INFO  Login:59 - password = valid
+2019-01-09 16:00:53 INFO  Login:32 - Driver is initialized
+2019-01-09 16:00:57 INFO  Login:57 - username = mngr171835
+2019-01-09 16:00:57 INFO  Login:59 - password = EnygEve
+2019-01-09 16:00:58 INFO  Login:57 - username = invalid
+2019-01-09 16:00:58 INFO  Login:59 - password = valid
+2019-01-09 16:01:25 INFO  Login:32 - Driver is initialized
+2019-01-09 16:01:28 INFO  Login:57 - username = mngr171835
+2019-01-09 16:01:28 INFO  Login:59 - password = EnygEve
+2019-01-09 16:01:29 INFO  Login:57 - username = invalid
+2019-01-09 16:01:29 INFO  Login:59 - password = valid
+2019-01-09 16:03:17 INFO  Login:57 - username = mngr171835
+2019-01-09 16:03:17 INFO  Login:59 - password = EnygEve
+2019-01-09 16:03:19 INFO  Login:32 - Driver is initialized
+2019-01-09 16:03:52 INFO  Login:57 - username = mngr171835
+2019-01-09 16:03:52 INFO  Login:59 - password = EnygEve
+2019-01-09 16:03:54 INFO  Login:32 - Driver is initialized
+2019-01-09 16:35:18 INFO  Login:33 - Driver is initialized
+2019-01-09 16:35:20 INFO  Login:59 - username = mngr171835
+2019-01-09 16:35:20 INFO  Login:61 - password = EnygEve
+2019-01-09 16:35:21 INFO  Login:33 - Driver is initialized
+2019-01-09 16:36:15 INFO  Login:33 - Driver is initialized
+2019-01-09 16:36:17 INFO  Login:59 - username = mngr171835
+2019-01-09 16:36:17 INFO  Login:61 - password = EnygEve
+2019-01-09 16:36:19 INFO  Login:33 - Driver is initialized
+2019-01-09 16:36:50 INFO  Login:33 - Driver is initialized
+2019-01-09 16:36:53 INFO  Login:59 - username = mngr171835
+2019-01-09 16:36:53 INFO  Login:61 - password = EnygEve
+2019-01-09 16:36:55 INFO  Login:33 - Driver is initialized
+2019-01-09 16:36:58 INFO  Login:59 - username = invalid
+2019-01-09 16:36:58 INFO  Login:61 - password = valid
+2019-01-09 16:37:00 INFO  Login:33 - Driver is initialized
+2019-01-09 16:38:07 INFO  Login:33 - Driver is initialized
+2019-01-09 16:38:11 INFO  Login:59 - username = mngr171835
+2019-01-09 16:38:11 INFO  Login:61 - password = EnygEve
+2019-01-09 16:38:13 INFO  Login:33 - Driver is initialized
+2019-01-09 16:38:17 INFO  Login:97 - Valid Pass
+2019-01-09 16:38:17 INFO  Login:59 - username = invalid
+2019-01-09 16:38:17 INFO  Login:61 - password = valid
+2019-01-09 16:38:19 INFO  Login:33 - Driver is initialized
+2019-01-09 16:45:08 INFO  Login:33 - Driver is initialized
+2019-01-09 16:45:10 INFO  Login:59 - username = mngr171835
+2019-01-09 16:45:10 INFO  Login:61 - password = EnygEve
+2019-01-09 16:45:12 INFO  Login:33 - Driver is initialized
+2019-01-09 16:45:15 INFO  Login:97 - Valid Pass
+2019-01-09 16:45:15 INFO  Login:59 - username = invalid
+2019-01-09 16:45:15 INFO  Login:61 - password = valid
+2019-01-09 16:45:16 INFO  Login:33 - Driver is initialized
+2019-01-09 16:46:02 INFO  Login:33 - Driver is initialized
+2019-01-09 16:46:05 INFO  Login:59 - username = mngr171835
+2019-01-09 16:46:05 INFO  Login:61 - password = EnygEve
+2019-01-09 16:46:55 INFO  Login:33 - Driver is initialized
+2019-01-09 16:46:57 INFO  Login:59 - username = mngr171835
+2019-01-09 16:46:57 INFO  Login:61 - password = EnygEve
+2019-01-09 16:46:59 INFO  Login:97 - Valid Pass
+2019-01-09 16:46:59 INFO  Login:59 - username = invalid
+2019-01-09 16:46:59 INFO  Login:61 - password = valid
+2019-01-09 16:48:24 INFO  Login:33 - Driver is initialized
+2019-01-09 16:48:26 INFO  Login:59 - username = mngr171835
+2019-01-09 16:48:26 INFO  Login:61 - password = EnygEve
+2019-01-09 16:49:16 INFO  Login:33 - Driver is initialized
+2019-01-09 16:49:18 INFO  Login:59 - username = mngr171835
+2019-01-09 16:49:18 INFO  Login:61 - password = EnygEve
+2019-01-09 16:49:20 INFO  Login:97 - Valid Pass
+2019-01-09 16:49:20 INFO  Login:59 - username = invalid
+2019-01-09 16:49:20 INFO  Login:61 - password = valid
+2019-01-09 17:02:08 INFO  Login:33 - Driver is initialized
+2019-01-09 17:02:10 INFO  Login:61 - username = mngr171835
+2019-01-09 17:02:10 INFO  Login:63 - password = EnygEve
+2019-01-09 17:02:12 INFO  Login:99 - Valid Pass
+2019-01-09 17:02:12 INFO  Login:61 - username = invalid
+2019-01-09 17:02:12 INFO  Login:63 - password = valid
+2019-01-09 17:02:13 INFO  Login:93 - InValid Pass
+2019-01-09 17:06:20 INFO  Login:33 - Driver is initialized
+2019-01-09 17:06:23 INFO  Login:61 - username = mngr171835
+2019-01-09 17:06:23 INFO  Login:63 - password = EnygEve
+2019-01-09 17:06:24 INFO  Login:99 - Valid Pass
+2019-01-09 17:06:25 INFO  Login:61 - username = invalid
+2019-01-09 17:06:25 INFO  Login:63 - password = valid
+2019-01-09 17:06:26 INFO  Login:93 - InValid Pass
+2019-01-09 17:06:26 INFO  Login:61 - username = valid
+2019-01-09 17:06:26 INFO  Login:63 - password = invalid
+2019-01-09 17:06:27 INFO  Login:93 - InValid Pass
+2019-01-09 17:06:27 INFO  Login:61 - username = invalid
+2019-01-09 17:06:27 INFO  Login:63 - password = invalid
+2019-01-09 17:06:28 INFO  Login:93 - InValid Pass
+2019-01-09 17:07:18 INFO  Login:33 - Driver is initialized
+2019-01-09 17:07:20 INFO  Login:61 - username = mngr171835
+2019-01-09 17:07:20 INFO  Login:63 - password = EnygEve
+2019-01-09 17:07:42 INFO  Login:33 - Driver is initialized
+2019-01-09 17:07:45 INFO  Login:61 - username = mngr171835
+2019-01-09 17:07:45 INFO  Login:63 - password = EnygEve
+2019-01-09 17:07:46 INFO  Login:99 - Valid Pass
+2019-01-09 17:07:47 INFO  Login:61 - username = invalid
+2019-01-09 17:07:47 INFO  Login:63 - password = valid
+2019-01-09 17:07:48 INFO  Login:93 - InValid Pass
+2019-01-09 17:07:48 INFO  Login:61 - username = valid
+2019-01-09 17:07:48 INFO  Login:63 - password = invalid
+2019-01-09 17:07:49 INFO  Login:93 - InValid Pass
+2019-01-09 17:07:49 INFO  Login:61 - username = invalid
+2019-01-09 17:07:49 INFO  Login:63 - password = invalid
+2019-01-09 17:07:50 INFO  Login:93 - InValid Pass
+2019-01-09 17:07:50 INFO  Login:61 - username = mngr171835
+2019-01-09 17:07:50 INFO  Login:63 - password = EnygEve
+2019-01-09 17:07:52 INFO  Login:99 - Valid Pass
+2019-01-09 17:08:59 INFO  Login:33 - Driver is initialized
+2019-01-09 17:09:01 INFO  Login:61 - username = mngr171835
+2019-01-09 17:09:01 INFO  Login:63 - password = EnygEve
+2019-01-09 17:09:03 INFO  Login:98 - Valid Pass
+2019-01-09 17:09:03 INFO  Login:61 - username = invalid
+2019-01-09 17:09:03 INFO  Login:63 - password = valid
+2019-01-09 17:09:04 INFO  Login:93 - InValid Pass
+2019-01-09 17:09:04 INFO  Login:61 - username = valid
+2019-01-09 17:09:04 INFO  Login:63 - password = invalid
+2019-01-09 17:09:06 INFO  Login:93 - InValid Pass
+2019-01-09 17:09:06 INFO  Login:61 - username = invalid
+2019-01-09 17:09:06 INFO  Login:63 - password = invalid
+2019-01-09 17:09:07 INFO  Login:93 - InValid Pass
+2019-01-09 17:09:07 INFO  Login:61 - username = mngr171835
+2019-01-09 17:09:07 INFO  Login:63 - password = EnygEve
+2019-01-09 17:09:09 INFO  Login:98 - Valid Pass
+2019-01-09 17:32:50 INFO  Login:33 - Driver is initialized
+2019-01-09 17:32:53 INFO  Login:59 - username = mngr171835
+2019-01-09 17:32:53 INFO  Login:62 - password = EnygEve
+2019-01-09 17:32:54 INFO  Login:97 - Valid Pass
+2019-01-09 17:32:54 INFO  Login:59 - username = invalid
+2019-01-09 17:32:54 INFO  Login:62 - password = valid
+2019-01-09 17:32:56 INFO  Login:92 - InValid Pass
+2019-01-09 17:32:56 INFO  Login:59 - username = valid
+2019-01-09 17:32:56 INFO  Login:62 - password = invalid
+2019-01-09 17:32:57 INFO  Login:92 - InValid Pass
+2019-01-09 17:32:57 INFO  Login:59 - username = invalid
+2019-01-09 17:32:57 INFO  Login:62 - password = invalid
+2019-01-09 17:32:58 INFO  Login:92 - InValid Pass
+2019-01-09 17:32:58 INFO  Login:59 - username = mngr171835
+2019-01-09 17:32:58 INFO  Login:62 - password = EnygEve
+2019-01-09 17:33:00 INFO  Login:97 - Valid Pass
+2019-01-09 17:38:03 INFO  Login:31 - Driver is initialized
+2019-01-09 17:38:05 INFO  Login:52 - username = mngr171835
+2019-01-09 17:38:05 INFO  Login:55 - password = EnygEve
+2019-01-09 17:38:07 INFO  Login:76 - Valid Pass
+2019-01-09 17:38:07 INFO  Login:52 - username = invalid
+2019-01-09 17:38:07 INFO  Login:55 - password = valid
+2019-01-09 17:38:08 INFO  Login:71 - InValid Pass
+2019-01-09 17:38:08 INFO  Login:52 - username = valid
+2019-01-09 17:38:08 INFO  Login:55 - password = invalid
+2019-01-09 17:38:09 INFO  Login:71 - InValid Pass
+2019-01-09 17:38:09 INFO  Login:52 - username = invalid
+2019-01-09 17:38:09 INFO  Login:55 - password = invalid
+2019-01-09 17:38:10 INFO  Login:71 - InValid Pass
+2019-01-09 17:38:10 INFO  Login:52 - username = mngr171835
+2019-01-09 17:38:10 INFO  Login:55 - password = EnygEve
+2019-01-09 17:38:12 INFO  Login:76 - Valid Pass
+2019-01-09 17:40:07 INFO  Login:31 - Driver is initialized
+2019-01-09 17:40:09 INFO  Login:52 - username = mngr171835
+2019-01-09 17:40:09 INFO  Login:55 - password = EnygEve
+2019-01-09 17:40:10 INFO  Login:76 - Valid Pass 
+
+2019-01-09 17:40:11 INFO  Login:52 - username = invalid
+2019-01-09 17:40:11 INFO  Login:55 - password = valid
+2019-01-09 17:40:12 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:40:12 INFO  Login:52 - username = valid
+2019-01-09 17:40:12 INFO  Login:55 - password = invalid
+2019-01-09 17:40:13 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:40:13 INFO  Login:52 - username = invalid
+2019-01-09 17:40:13 INFO  Login:55 - password = invalid
+2019-01-09 17:40:14 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:40:14 INFO  Login:52 - username = mngr171835
+2019-01-09 17:40:14 INFO  Login:55 - password = EnygEve
+2019-01-09 17:40:16 INFO  Login:76 - Valid Pass 
+
+2019-01-09 17:40:55 INFO  Login:31 - Driver is initialized
+2019-01-09 17:40:57 INFO  Login:52 - 
+ username = mngr171835
+2019-01-09 17:40:57 INFO  Login:55 - password = EnygEve
+2019-01-09 17:40:59 INFO  Login:76 - Valid Pass 
+
+2019-01-09 17:40:59 INFO  Login:52 - 
+ username = invalid
+2019-01-09 17:40:59 INFO  Login:55 - password = valid
+2019-01-09 17:41:00 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:41:00 INFO  Login:52 - 
+ username = valid
+2019-01-09 17:41:00 INFO  Login:55 - password = invalid
+2019-01-09 17:41:01 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:41:01 INFO  Login:52 - 
+ username = invalid
+2019-01-09 17:41:01 INFO  Login:55 - password = invalid
+2019-01-09 17:41:03 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:41:03 INFO  Login:52 - 
+ username = mngr171835
+2019-01-09 17:41:03 INFO  Login:55 - password = EnygEve
+2019-01-09 17:41:04 INFO  Login:76 - Valid Pass 
+
+2019-01-09 17:42:06 INFO  Login:31 - Driver is initialized
+2019-01-09 17:42:08 INFO  Login:55 - Username = mngr171835, Password = EnygEve
+
+2019-01-09 17:42:09 INFO  Login:76 - Valid Pass 
+
+2019-01-09 17:42:10 INFO  Login:55 - Username = invalid, Password = valid
+
+2019-01-09 17:42:11 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:42:11 INFO  Login:55 - Username = valid, Password = invalid
+
+2019-01-09 17:42:12 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:42:12 INFO  Login:55 - Username = invalid, Password = invalid
+
+2019-01-09 17:42:13 INFO  Login:71 - InValid Pass 
+
+2019-01-09 17:42:13 INFO  Login:55 - Username = mngr171835, Password = EnygEve
+
+2019-01-09 17:42:15 INFO  Login:76 - Valid Pass 
+
+2019-01-09 17:43:28 INFO  Login:31 - Driver is initialized
+2019-01-09 17:43:31 INFO  Login:53 - UserID= mngr171835, Password= EnygEve
+2019-01-09 17:43:32 INFO  Login:74 - Valid Pass 
+
+2019-01-09 17:43:32 INFO  Login:53 - UserID= invalid, Password= valid
+2019-01-09 17:43:34 INFO  Login:69 - InValid Pass 
+
+2019-01-09 17:43:34 INFO  Login:53 - UserID= valid, Password= invalid
+2019-01-09 17:43:35 INFO  Login:69 - InValid Pass 
+
+2019-01-09 17:43:35 INFO  Login:53 - UserID= invalid, Password= invalid
+2019-01-09 17:43:36 INFO  Login:69 - InValid Pass 
+
+2019-01-09 17:43:36 INFO  Login:53 - UserID= mngr171835, Password= EnygEve
+2019-01-09 17:43:38 INFO  Login:74 - Valid Pass 
+
+2019-01-09 17:43:57 INFO  Login:31 - Driver is initialized
+2019-01-09 17:44:00 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:44:01 INFO  Login:74 - Valid Pass 
+
+2019-01-09 17:44:01 INFO  Login:53 - UserID: invalid, Password: valid
+2019-01-09 17:44:02 INFO  Login:69 - InValid Pass 
+
+2019-01-09 17:44:02 INFO  Login:53 - UserID: valid, Password: invalid
+2019-01-09 17:44:03 INFO  Login:69 - InValid Pass 
+
+2019-01-09 17:44:03 INFO  Login:53 - UserID: invalid, Password: invalid
+2019-01-09 17:44:04 INFO  Login:69 - InValid Pass 
+
+2019-01-09 17:44:04 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:44:06 INFO  Login:74 - Valid Pass 
+
+2019-01-09 17:44:49 INFO  Login:31 - Driver is initialized
+2019-01-09 17:44:52 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:44:54 INFO  Login:74 - Valid Credentials Test Passed 
+
+2019-01-09 17:44:54 INFO  Login:53 - UserID: invalid, Password: valid
+2019-01-09 17:44:55 INFO  Login:69 - InValid Credentials Test Passed 
+
+2019-01-09 17:44:55 INFO  Login:53 - UserID: valid, Password: invalid
+2019-01-09 17:44:56 INFO  Login:69 - InValid Credentials Test Passed 
+
+2019-01-09 17:44:56 INFO  Login:53 - UserID: invalid, Password: invalid
+2019-01-09 17:44:57 INFO  Login:69 - InValid Credentials Test Passed 
+
+2019-01-09 17:44:57 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:44:59 INFO  Login:74 - Valid Credentials Test Passed 
+
+2019-01-09 17:48:15 INFO  Login:31 - Driver is initialized
+2019-01-09 17:48:17 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:48:18 INFO  Login:76 - Valid Credentials Test Passed 
+
+2019-01-09 17:48:19 INFO  Login:53 - UserID: invalid, Password: valid
+2019-01-09 17:48:20 INFO  Login:67 - User or Password is not valid
+2019-01-09 17:48:20 INFO  Login:70 - InValid Credentials Test Passed 
+
+2019-01-09 17:48:20 INFO  Login:53 - UserID: valid, Password: invalid
+2019-01-09 17:48:21 INFO  Login:67 - User or Password is not valid
+2019-01-09 17:48:21 INFO  Login:70 - InValid Credentials Test Passed 
+
+2019-01-09 17:48:21 INFO  Login:53 - UserID: invalid, Password: invalid
+2019-01-09 17:48:22 INFO  Login:67 - User or Password is not valid
+2019-01-09 17:48:22 INFO  Login:70 - InValid Credentials Test Passed 
+
+2019-01-09 17:48:22 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:48:24 INFO  Login:76 - Valid Credentials Test Passed 
+
+2019-01-09 17:49:23 INFO  Login:31 - Driver is initialized
+2019-01-09 17:49:26 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:49:27 INFO  Login:76 - Valid Credentials Test Passed 
+
+2019-01-09 17:49:27 INFO  Login:53 - UserID: invalid, Password: valid
+2019-01-09 17:49:29 INFO  Login:67 - User or Password is not valid
+2019-01-09 17:49:29 INFO  Login:70 - InValid Credentials Test Passed 
+
+2019-01-09 17:49:29 INFO  Login:53 - UserID: valid, Password: invalid
+2019-01-09 17:49:30 INFO  Login:67 - User or Password is not valid
+2019-01-09 17:49:30 INFO  Login:70 - InValid Credentials Test Passed 
+
+2019-01-09 17:49:30 INFO  Login:53 - UserID: invalid, Password: invalid
+2019-01-09 17:49:31 INFO  Login:67 - User or Password is not valid
+2019-01-09 17:49:31 INFO  Login:70 - InValid Credentials Test Passed 
+
+2019-01-09 17:49:31 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:49:33 INFO  Login:76 - Valid Credentials Test Passed 
+
+2019-01-09 17:50:39 INFO  Login:31 - Driver is initialized
+2019-01-09 17:50:41 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:50:42 INFO  Login:74 - Valid Credentials Test Passed 
+
+2019-01-09 17:50:43 INFO  Login:53 - UserID: invalid, Password: valid
+2019-01-09 17:50:44 INFO  Login:53 - UserID: valid, Password: invalid
+2019-01-09 17:50:45 INFO  Login:53 - UserID: invalid, Password: invalid
+2019-01-09 17:50:46 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:50:48 INFO  Login:74 - Valid Credentials Test Passed 
+
+2019-01-09 17:50:59 INFO  Login:31 - Driver is initialized
+2019-01-09 17:51:02 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:51:03 INFO  Login:74 - Valid Credentials Test Passed 
+
+2019-01-09 17:51:04 INFO  Login:53 - UserID: invalid, Password: valid
+2019-01-09 17:51:05 INFO  Login:68 - InValid Credentials Test Passed 
+
+2019-01-09 17:51:05 INFO  Login:53 - UserID: valid, Password: invalid
+2019-01-09 17:51:06 INFO  Login:68 - InValid Credentials Test Passed 
+
+2019-01-09 17:51:06 INFO  Login:53 - UserID: invalid, Password: invalid
+2019-01-09 17:51:07 INFO  Login:68 - InValid Credentials Test Passed 
+
+2019-01-09 17:51:07 INFO  Login:53 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:51:09 INFO  Login:74 - Valid Credentials Test Passed 
+
+2019-01-09 17:54:43 INFO  Login:31 - Driver is initialized
+2019-01-09 17:54:46 INFO  Login:52 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:54:47 INFO  Login:72 - Valid Credentials Test Passed 
+
+2019-01-09 17:54:47 INFO  Login:52 - UserID: invalid, Password: EnygEve
+2019-01-09 17:54:48 INFO  Login:67 - InValid Credentials Test Passed 
+
+2019-01-09 17:54:48 INFO  Login:52 - UserID: mngr171835, Password: invalid
+2019-01-09 17:54:49 INFO  Login:67 - InValid Credentials Test Passed 
+
+2019-01-09 17:54:49 INFO  Login:52 - UserID: invalid, Password: invalid
+2019-01-09 17:54:51 INFO  Login:67 - InValid Credentials Test Passed 
+
+2019-01-09 17:54:51 INFO  Login:52 - UserID: mngr171835, Password: EnygEve
+2019-01-09 17:54:52 INFO  Login:72 - Valid Credentials Test Passed 
+
+2019-01-09 17:55:39 INFO  Login:31 - Driver is initialized
+2019-01-09 17:55:42 INFO  Login:52 - 1 UserID: mngr171835, Password: EnygEve
+2019-01-09 17:55:43 INFO  Login:72 - Valid Credentials Test Passed 
+
+2019-01-09 17:55:44 INFO  Login:52 - 2 UserID: invalid, Password: EnygEve
+2019-01-09 17:55:45 INFO  Login:67 - InValid Credentials Test Passed 
+
+2019-01-09 17:55:45 INFO  Login:52 - 3 UserID: mngr171835, Password: invalid
+2019-01-09 17:55:46 INFO  Login:67 - InValid Credentials Test Passed 
+
+2019-01-09 17:55:46 INFO  Login:52 - 4 UserID: invalid, Password: invalid
+2019-01-09 17:55:47 INFO  Login:67 - InValid Credentials Test Passed 
+
