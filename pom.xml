@@ -12,6 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.test.failure.ignore>true</maven.test.failure.ignore>
   </properties>
 
   <dependencies>
@@ -51,8 +52,21 @@
     <version>3.141.59</version>
    </dependency>
    
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-safari-driver -->
+	<dependency>
+     <groupId>org.seleniumhq.selenium</groupId>
+     <artifactId>selenium-safari-driver</artifactId>
+     <version>3.141.59</version>
+	</dependency>
+	
+    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-ie-driver -->
+	<dependency>
+     <groupId>org.seleniumhq.selenium</groupId>
+     <artifactId>selenium-ie-driver</artifactId>
+     <version>3.141.59</version>
+	</dependency>
 
-   <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+    <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 	<dependency>
      <groupId>org.apache.poi</groupId>
      <artifactId>poi-ooxml</artifactId>
@@ -64,7 +78,14 @@
     <groupId>com.relevantcodes</groupId>
     <artifactId>extentreports</artifactId>
     <version>2.41.2</version>
-   </dependency>
+   </dependency> 
+   
+   <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+<dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>3.0.0</version>
+</dependency>
    
    <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
    <dependency>
@@ -76,7 +97,7 @@
   
   <build>
    <plugins>
-    <plugin>
+    <!-- <plugin>
 	 <groupId>org.apache.maven.plugins</groupId>
 	 <artifactId>maven-compiler-plugin</artifactId>
 	 <version>3.0</version>
@@ -84,7 +105,86 @@
 	   <source>1.6</source>
 	   <target>1.6</target>
 	  </configuration>
+    </plugin> -->
+    
+    <plugin>
+       <groupId>org.apache.maven.plugins</groupId>
+       <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.0.0-M3</version>
+          <configuration>
+           <suiteXmlFiles>
+             <suiteXmlFile>testng.xml</suiteXmlFile>
+           </suiteXmlFiles>
+          </configuration> 
     </plugin>
+    
+    <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+         <configuration>
+         <source>1.6</source>
+         <target>1.6</target>
+        </configuration>
+    </plugin>
+    
+    <!-- Post-Man plugin --> <!-- For sending Reports as email -->
+		 <!-- <plugin>
+			<groupId>ch.fortysix</groupId>
+			<artifactId>maven-postman-plugin</artifactId>
+			<executions>
+				<execution>
+				
+				<id>send a mail</id>
+				<phase>test</phase>
+				<goals>
+				<goal>send-mail</goal>
+				</goals>
+				<inherited>true</inherited>
+				
+				<configuration>
+					From Email address
+					<from>suparna@test.com</from>  
+					
+					 Email subject
+					<subject>Test Automation Report</subject>
+					
+					Fail the build if the mail doesnt reach
+					<failonerror>true</failonerror>
+					
+					host
+					<mailhost>smtp.gmail.com</mailhost>
+					port of the host
+					<mailport>465</mailport>
+					<mailssl>true</mailssl>
+					<mailAltConfig>true</mailAltConfig>
+					
+					Email Authentication(USername and Password)
+					<mailuser>********@gmail.com</mailuser>
+					<mailpassword>********</mailpassword>
+					
+					<receivers>
+						To Email address
+						<receiver>suparna.soman@outlook.com</receiver>
+					</receivers>
+					
+					<fileSets>
+					<fileSet>
+						Report directory Path
+						<directory>/Users/suparnasoman/Documents/Eclipse-Workspace/Test/</directory>
+						<directory>./test-output</directory>
+						<includes>
+							Report file name
+							<include>Extentreports.html</include>
+							<include>*screenshot.png</include>
+						</includes>
+						Use Regular Expressions like **/*.html if you want all the html files to send
+						</fileSet>
+					</fileSets>				
+				
+				</configuration>
+				</execution>
+			</executions>
+		</plugin>  -->
+    
    </plugins>
   </build>
  
